@@ -25,7 +25,7 @@ Além disso, a implementação deste modelo em um banco de dados relacional deve
 - PHP
 
 ## Entrega
-Após finalizar o teste crie um projeto público no GITHUB com todas as informações necessárias para que eu consiga instalar o projeto. Envie um e-mail para psymics@gmail.com
+Após finalizar o teste crie um projeto público no GITHUB com todas as informações necessárias para que eu consiga instalar o projeto. Envie um e-mail para contato@jeitocommerce.com.br
 
 ## Bônus
 - Implementar autenticação de usuário na aplicação.
